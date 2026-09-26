@@ -3,13 +3,11 @@
 
 ![GitHub Pages](https://img.shields.io/badge/deployed-GitHub%20Pages-blue)
 ![Status](https://img.shields.io/badge/status-prototype-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Made with](https://img.shields.io/badge/Made%20with-HTML%2FCSS%2FJS-yellow)
 
 **UrbanMove** is a smart urban mobility prototype designed to make city travel safer, more accessible, and efficient for everyone. It combines real-time transit updates, smart routing, accessibility preferences, and emergency support into a single, user-friendly mobile-first interface. 
 
-🔗 **Live Demo:** [https://your-username.github.io/urbanmove/](https://your-username.github.io/urbanmove/) *(Replace `your-username` with your actual GitHub username)*
-
+🔗 **Live Demo:** [https://your-username.github.io/urbanmove/](https://diyapahooja.github.io/urbanmove/) 
 ---
 
 ## 🌟 The Vision
